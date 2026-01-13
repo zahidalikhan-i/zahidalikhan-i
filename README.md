@@ -19,4 +19,14 @@
 
 Python • JavaScript • HTML/CSS • PHP • MySQL • Laravel • React • Node.js • Git • GitHub
 
+
+- Streak stats:  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidalikhan&theme=dark&hide_border=true)`
+- Trophy:  
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zahidalikhan&theme=darkhub&no-frame=true&margin-w=15)`
+
+Your profile will look super professional and attractive to recruiters and collaborators!
+
+Let me know when you update it — I’d love to hear how it turns out, or if you want a different style (minimal, colorful, etc.). Keep rocking! 🚀
+
 </div>
