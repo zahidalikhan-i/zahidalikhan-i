@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square)](https://github.com/zahidalikhan-i)
 
 ### 💻 Tech Stack
-```text
+
 Python • JavaScript • HTML/CSS • PHP • MySQL • Laravel • React • Node.js • Git • GitHub
 
 </div>
