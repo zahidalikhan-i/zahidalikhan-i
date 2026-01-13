@@ -9,8 +9,6 @@
 
 **Full-Stack Developer | Open Source Enthusiast | Problem Solver**
 
-</div>
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/zahid-ali-khan-789992317/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](zahidalikhan207028@gmail.com)  
@@ -20,3 +18,5 @@
 ### 💻 Tech Stack
 ```text
 Python • JavaScript • HTML/CSS • PHP • MySQL • Laravel • React • Node.js • Git • GitHub
+
+</div>
