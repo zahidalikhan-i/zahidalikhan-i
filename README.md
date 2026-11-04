@@ -12,7 +12,7 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/zahid-ali-khan-789992317/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](zahidalikhan207028@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&style=flat-square)](https://zahid-ali-khan.vercel.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&style=flat-square)](https://my-profile-details.vercel.app)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square)](https://github.com/zahidalikhan-i)
 
 ### 💻 Tech Stack
